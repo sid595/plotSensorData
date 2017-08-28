@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EnvironmentSensors</string>
+    <string name="title_activity_get_sensor_data">getSensorData</string>
+    <string name="title_activity_plot_sensor_data">plotSensorData</string>
+</resources>
